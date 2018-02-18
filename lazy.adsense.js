@@ -9,8 +9,8 @@ jQuery(document).ready(function ($) {
     });
 	
 	$('.adsense728x90').adsenseLoader({
-        onLoad: function ($this) {
-            $this.addClass('adsense728x90--loaded');
+        onLoad: function ($thisx) {
+            $thisx.addClass('adsense728x90--loaded');
         }
     });
 	
