@@ -10,13 +10,13 @@ jQuery(document).ready(function ($) {
 	
 	$('.adsense728x90').adsenseLoader({
         onLoad: function ($this) {
-            $this.addClass('adsense728x90--loaded');
+            $this.addClass('adsense--loaded');
         }
     });
 	
 	$('.adsense300x600').adsenseLoader({
         onLoad: function ($this) {
-            $this.addClass('adsense300x600--loaded');
+            $this.addClass('adsense--loaded');
         }
     });
 
