@@ -36,7 +36,9 @@
     top: 0;
     left: 0;
 }
-.adsense--loaded .adsense300x600--loaded .adsense728x90--loaded .adsense__loading { display: none; }
+.adsense--loaded .adsense__loading { display: none; }
+.adsense300x600--loaded .adsense__loading { display: none; }
+.adsense728x90--loaded .adsense__loading { display: none; }
 
 .adsense__loading span {
     text-align: center;
