@@ -22,7 +22,7 @@
     margin: 0 auto;
 }
 .adsense:before, .adsense728x90:before , .adsense300x600:before { display: none !important; }
-.adsense, .adsense728x90, .adsense300x600 ins	{ width: 100%; height: 100%; display: block; }
+.adsense ins, .adsense728x90 ins, .adsense300x600 ins { width: 100%; height: 100%; display: block; }
 
 .adsense, .adsense728x90, .adsense300x600 {
     position: relative;
